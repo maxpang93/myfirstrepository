@@ -1,1 +1,4 @@
-Master Branch
+ first_git_branch
+Hi, this is my first git file. For first git branch. 
+
+Master Branch master
